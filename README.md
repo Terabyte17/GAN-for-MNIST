@@ -12,6 +12,7 @@ This repository contains my implementation of the original GAN paper. I've used 
   <img width="300" height="200" src="https://github.com/Terabyte17/GAN-for-MNIST/blob/master/images/6.png"/>
   <img width="300" height="200" src="https://github.com/Terabyte17/GAN-for-MNIST/blob/master/images/7.png"/>
   <img width="300" height="200" src="https://github.com/Terabyte17/GAN-for-MNIST/blob/master/images/8.png"/>
+  <img width="300" height="200" src="https://github.com/Terabyte17/GAN-for-MNIST/blob/master/images/9.png"/>
 </p>
 
 These are some results from the training process, in which I trained the model for **80000 epochs** with **32 examples** in each epoch and sampled images from the generator at intervals of 200 epochs.
